@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aledc7/cleanCode/master/resources/cleancode.png" height="250" width="250">
+<img src="https://raw.githubusercontent.com/aledc7/cleanCode/master/resources/cleancode.png" height="100" width="1000">
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![ingenea.com.ar](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ingenea.svg)](http://ingenea.com.ar)
